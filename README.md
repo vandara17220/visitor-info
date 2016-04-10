@@ -44,4 +44,4 @@ $1.50 or 4/ $5.00
 MasterCard, Visa, Discover and Cash
 </body>
 </html>
-visitor info
+visitor inf
